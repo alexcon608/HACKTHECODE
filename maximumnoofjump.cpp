@@ -37,7 +37,7 @@ typedef pair<int,int> p32;
 typedef pair<ll,ll> p64;
 typedef pair<double,double> pdd;
 typedef vector<ll> v64;
-typedef vector<int> v32;
+typedef vector<int> v800;
 typedef vector<vector<int> > vv32;
 typedef vector<vector<ll> > vv64;
 typedef vector<vector<p64> > vvp64;
@@ -93,4 +93,5 @@ int main(){
 
     return 0;
  
+
 }
