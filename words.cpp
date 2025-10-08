@@ -26,7 +26,7 @@ using namespace std;
 #include <unordered_map>
 #include <stack>
 #include <iomanip>
-#include <fstream>
+#include <obm>
 #include <cctype>
  
 //****************************************************************************************************************//
@@ -125,4 +125,5 @@ int main(){
     cout<<minimumSum(n,k);
     return 0;
  
+
 }
